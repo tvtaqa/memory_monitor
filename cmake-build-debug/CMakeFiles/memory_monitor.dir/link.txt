@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/memory_monitor.dir/main.cpp.o  -o memory_monitor 

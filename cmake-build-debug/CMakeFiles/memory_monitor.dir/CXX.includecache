@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tvtaqa/文档/Clion_Projects/memory_monitor/main.cpp
+iostream
+-
+unistd.h
+-
+fstream
+-
+

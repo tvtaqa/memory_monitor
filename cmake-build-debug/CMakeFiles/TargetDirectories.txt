@@ -1,0 +1,3 @@
+/home/tvtaqa/文档/Clion_Projects/memory_monitor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tvtaqa/文档/Clion_Projects/memory_monitor/cmake-build-debug/CMakeFiles/memory_monitor.dir
+/home/tvtaqa/文档/Clion_Projects/memory_monitor/cmake-build-debug/CMakeFiles/edit_cache.dir
